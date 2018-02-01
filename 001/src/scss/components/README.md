@@ -1,1 +1,0 @@
-Put all your components here in this directory.
